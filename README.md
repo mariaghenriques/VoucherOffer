@@ -1,11 +1,10 @@
 # VoucherOffer
-Terms &amp; Conditions of Voucher
  <!DOCTYPE html>
 <html>
 
 
 <head>
-<title>Limites do Voucher</title>
+Limites do Voucher
 </head>
 
 
